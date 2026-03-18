@@ -2,6 +2,7 @@ h1{
   color: rgb(255, 100, 0);
   font-size: 300px;
   font-style: italic;
+  float: center;
 }
 
 body{
